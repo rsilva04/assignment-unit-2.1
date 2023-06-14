@@ -21,7 +21,7 @@ let food='pizza';
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
 let pets=2
 // 10 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
-
+let friendsPets=4
 // 11 - Add two pets to your `pets` variable
 
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
